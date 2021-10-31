@@ -30,6 +30,8 @@ import { usePhotoGallery } from "@/composables/usePhotoGallery";
 
 import { camera, trash, close, images, square, triangle } from "ionicons/icons";
 
+
+
 import {
   IonPage,
   IonHeader,
